@@ -11,6 +11,3 @@ I am Raphaël Razafindralambo, a PhD student from Centre Inria d'Université Cô
 
 My main interests include diffusion models for SOTA image generation, especially guidance and control methods for large-scale generative models. I am also interested in ensembling more broadly, from classical machine learning to modern generative models, and particularly enjoy connecting practical methods with their theoretical foundations.
 
-A data-driven personal website
-======
-

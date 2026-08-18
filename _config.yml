@@ -23,7 +23,7 @@ repository               : "rarazafin/rarazafin.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "photo_id.jpg"
   name             : "Raphaël Razafindralambo" 
   bio              : "2nd year PhD student from Centre Inria d'Université Côte d'Azur"
   location         : "France"
